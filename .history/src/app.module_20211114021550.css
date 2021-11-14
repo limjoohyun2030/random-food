@@ -1,0 +1,23 @@
+/* @value makerLightOrange from './common/colors.css'; */
+
+.app {
+  max-width: 100rem;
+  /* background-image: url("https://image.freepik.com/free-photo/spaghetti-with-spicy-mixed-seafood-dark-background_1150-45297.jpg"); */
+  /* background-repeat: no-repeat;
+  background-size: 100vw 100vh; */
+}
+
+.content {
+  position: relative;
+}
+
+.list {
+  /* visibility: hidden; */
+  z-index: 1;
+}
+
+@media screen and (max-width: 769px) {
+  #root {
+   
+  }
+}

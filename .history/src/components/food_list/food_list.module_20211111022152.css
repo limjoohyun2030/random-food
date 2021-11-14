@@ -1,0 +1,30 @@
+
+
+.foods {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 1em auto;
+  padding: 0;
+}
+
+.sidebarLeft {
+  background-color: chartreuse;
+  font-size: 2em;
+}
+
+.sidebarRight {
+  background-color: chartreuse;
+  font-size: 2em;
+}
+
+@media screen and (max-width: 769px) {
+  .foods {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100%;
+  }
+}

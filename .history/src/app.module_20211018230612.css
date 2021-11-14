@@ -1,0 +1,15 @@
+.app {
+  max-width: 100rem;
+}
+
+.content {
+  width: 150%;
+  height: 150%;
+}
+
+.detail {
+}
+
+.list {
+  /* visibility: hidden; */
+}

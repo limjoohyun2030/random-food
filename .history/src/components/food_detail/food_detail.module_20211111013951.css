@@ -1,0 +1,28 @@
+.section {
+  /* display: none; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.detail {
+  flex-direction: row;
+  margin: auto 5em;
+}
+
+.title {
+  font-size: 2em;
+  font-weight: 800;
+  margin: 3px auto;
+}
+
+.dishTypes {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin: 3px auto;
+}
+
+.instructions {
+  margin: 1em auto;
+  font-size: 0.9em;
+}

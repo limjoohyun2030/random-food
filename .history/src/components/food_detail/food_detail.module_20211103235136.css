@@ -1,0 +1,11 @@
+.section {
+  /* display: none; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex
+}
+
+.title {
+  font-size: 2em;
+}

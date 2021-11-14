@@ -1,0 +1,18 @@
+.foods {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin-left: 10em;
+}
+
+@media screen and (max-width: 769px) {
+  .foods {
+    /* display: flex;
+    flex-wrap: nowrap; */
+    flex-direction: column;
+ 
+  }
+}

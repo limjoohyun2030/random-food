@@ -1,0 +1,17 @@
+.app {
+  max-width: 100rem;
+}
+
+.content {
+  position: relative;
+}
+
+.detail {
+  z-index: -1;
+  top: 200px;
+  position: absolute;
+}
+
+.list {
+  /* visibility: hidden; */
+}

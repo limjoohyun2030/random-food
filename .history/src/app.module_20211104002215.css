@@ -1,0 +1,21 @@
+.app {
+  max-width: 100rem;
+}
+
+.content {
+  position: relative;
+}
+
+.detail {
+  z-index: 1;
+  /* margin: auto 0; */
+  margin-top: 20px;
+  height: 520px;
+  width: auto;
+  position: absolute;
+  background-color: lightgreen;
+}
+
+.list {
+  /* visibility: hidden; */
+}

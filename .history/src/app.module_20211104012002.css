@@ -1,0 +1,22 @@
+.app {
+  max-width: 100rem;
+}
+
+.content {
+  position: relative;
+  background-image: url("https://image.freepik.com/free-photo/spaghetti-with-spicy-mixed-seafood-dark-background_1150-45297.jpg");
+}
+
+.detail {
+  z-index: 1;
+  /* margin: auto 0; */
+  margin-top: 20px;
+  height: 520px;
+  width: auto;
+  position: absolute;
+  background-color: rgb(214, 216, 91);
+}
+
+.list {
+  /* visibility: hidden; */
+}

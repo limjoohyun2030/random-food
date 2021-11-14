@@ -1,0 +1,16 @@
+.app {
+  max-width: 100rem;
+}
+
+.content{
+  
+}
+
+.detail{
+  width: 80%;
+  height: 80%;
+}
+
+.list{
+  display: none;
+}
