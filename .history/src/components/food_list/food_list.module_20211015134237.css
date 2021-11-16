@@ -1,9 +1,0 @@
-.foods {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  justify-content: center;
-  padding-right: 40;
-  padding-left: 0;
-  width: 70%;
-}

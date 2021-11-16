@@ -1,8 +1,0 @@
-.foods {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  justify-content: center;
-  padding-left: 30px;
-  width: 70%;
-}
